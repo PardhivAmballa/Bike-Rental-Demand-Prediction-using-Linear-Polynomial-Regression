@@ -172,6 +172,3 @@ count
 ## 📄 License
 
 This repository is intended for **educational and academic purposes**.
-
-```
-```
